@@ -6,6 +6,8 @@ This project looks at 22 seasons of NBA player awards (MVP, DPOY, ROY, 6MOY, MIP
 
 **Live dashboard:** [NBA Awards Analysis on Tableau Public](https://public.tableau.com/app/profile/kunal.rane2343/viz/NBAAwardsAnalysis_17954818013530/Dashboard)
 
+![Dashboard](docs/dashboard.png)
+
 ## Tools
 - **Python** to download and load the data
 - **SQLite + SQL** (VS Code with SQLTools) to clean and analyze it
